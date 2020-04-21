@@ -83,3 +83,9 @@ Should return
 
 */
 ```
+
+
+**Bonus** 
+
+Implement the following function in a OOP way.
+add an addPlayer() method

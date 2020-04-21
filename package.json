@@ -1,0 +1,23 @@
+{
+  "name": "tlse0320-js-dojo-scores",
+  "version": "1.0.0",
+  "description": "## Step 1",
+  "main": "podium.js",
+  "dependencies": {
+    "jest": "^25.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WildCodeSchool/tlse0320-js-dojo-scores.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WildCodeSchool/tlse0320-js-dojo-scores/issues"
+  },
+  "homepage": "https://github.com/WildCodeSchool/tlse0320-js-dojo-scores#readme"
+}
